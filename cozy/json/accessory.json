@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5,
+    "title": "Ariane wedding band",
+    "filter": ["accessory"],
+    "price": 26630,
+    "url": "https://raquim47.github.io/data/cozy/img/accessory/accessory05.jpg",
+    "count": 1
+  },
+  {
+    "id": 4,
+    "title": "Amulettes Cadenas bracelet",
+    "filter": ["accessory"],
+    "price": 8230,
+    "url": "https://raquim47.github.io/data/cozy/img/accessory/accessory04.jpg",
+    "count": 1
+  },
+  {
+    "id": 3,
+    "title": "Amulettes Cadenas pendant",
+    "filter": ["accessory"],
+    "price": 12930,
+    "url": "https://raquim47.github.io/data/cozy/img/accessory/accessory03.jpg",
+    "count": 1
+  },
+  {
+    "id": 2,
+    "title": "Collier de Chien ring, small model",
+    "filter": ["accessory"],
+    "price": 16430,
+    "url": "https://raquim47.github.io/data/cozy/img/accessory/accessory02.jpg",
+    "count": 1
+  },
+  {
+    "id": 1,
+    "title": "Clou de forge long necklace",
+    "filter": ["accessory"],
+    "price": 9200,
+    "url": "https://raquim47.github.io/data/cozy/img/accessory/accessory01.jpg",
+    "count": 1
+  }
+]

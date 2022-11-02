@@ -1,0 +1,112 @@
+[
+  {
+    "id": 11,
+    "title": "Run H shorts",
+    "filter": ["Men", "pants"],
+    "price": 1320,
+    "url": "https://raquim47.github.io/data/cozy/img/m_pants/men-pants11.jpg",
+    "size": ["S", "L", "XL"],
+    "color": ["white", "black", "red", "blue"],
+    "count": 1
+  },
+  {
+    "id": 10,
+    "title": "Luxembourg jogging pants",
+    "filter": ["Men", "pants"],
+    "price": 3120,
+    "url": "https://raquim47.github.io/data/cozy/img/m_pants/men-pants10.jpg",
+    "size": ["S", "L", "XL"],
+    "color": ["white", "black", "red", "blue"],
+    "count": 1
+  },
+  {
+    "id": 9,
+    "title": "Saint Germain fitted pants with leather detail",
+    "filter": ["Men", "pants"],
+    "price": 1290,
+    "url": "https://raquim47.github.io/data/cozy/img/m_pants/men-pants09.jpg",
+    "size": ["S", "L", "XL"],
+    "color": ["white", "black", "red", "blue"],
+    "count": 1
+  },
+  {
+    "id": 8,
+    "title": "Saint Germain fitted pants",
+    "filter": ["Men", "pants"],
+    "price": 1130,
+    "url": "https://raquim47.github.io/data/cozy/img/m_pants/men-pants08.jpg",
+    "size": ["S", "L", "XL"],
+    "color": ["white", "black", "red", "blue"],
+    "count": 1
+  },
+  {
+    "id": 7,
+    "title": "Sport capsule jogging pants",
+    "filter": ["Men", "pants"],
+    "price": 1530,
+    "url": "https://raquim47.github.io/data/cozy/img/m_pants/men-pants07.jpg",
+    "size": ["S", "L", "XL"],
+    "color": ["white", "black", "red", "blue"],
+    "count": 1
+  },
+  {
+    "id": 6,
+    "title": "Jeans with leather pocket detail",
+    "filter": ["Men", "pants"],
+    "price": 1030,
+    "url": "https://raquim47.github.io/data/cozy/img/m_pants/men-pants06.jpg",
+    "size": ["S", "L", "XL"],
+    "color": ["white", "black", "red", "blue"],
+    "count": 1
+  },
+  {
+    "id": 5,
+    "title": "Jeans with leather pocket detail new",
+    "filter": ["Men", "pants"],
+    "price": 630,
+    "url": "https://raquim47.github.io/data/cozy/img/m_pants/men-pants05.jpg",
+    "size": ["S", "L", "XL"],
+    "color": ["white", "black", "red", "blue"],
+    "count": 1
+  },
+  {
+    "id": 4,
+    "title": "Luxembourg jogging pants",
+    "filter": ["Men", "pants"],
+    "price": 1230,
+    "url": "https://raquim47.github.io/data/cozy/img/m_pants/men-pants04.jpg",
+    "size": ["S", "L", "XL"],
+    "color": ["white", "black", "red", "blue"],
+    "count": 1
+  },
+  {
+    "id": 3,
+    "title": "Capsule jogging pants new",
+    "filter": ["Men", "pants"],
+    "price": 430,
+    "url": "https://raquim47.github.io/data/cozy/img/m_pants/men-pants02.jpg",
+    "size": ["S", "L", "XL"],
+    "color": ["white", "black", "red", "blue"],
+    "count": 1
+  },
+  {
+    "id": 2,
+    "title": "pants with Cotton new",
+    "filter": ["Men", "pants"],
+    "price": 130,
+    "url": "https://raquim47.github.io/data/cozy/img/m_pants/men-pants02.jpg",
+    "size": ["S", "L", "XL"],
+    "color": ["white", "black", "red", "blue"],
+    "count": 1
+  },
+  {
+    "id": 1,
+    "title": "pants with Cotton",
+    "filter": ["Men", "pants"],
+    "price": 2200,
+    "url": "https://raquim47.github.io/data/cozy/img/m_pants/men-pants01.jpg",
+    "size": ["S", "L", "XL"],
+    "color": ["white", "black", "red", "blue"],
+    "count": 1
+  }
+]
