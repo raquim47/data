@@ -4,7 +4,7 @@
     "title": "Printed t-shirt",
     "filter": ["women", "Top"],
     "price": 430,
-    "url": "https://raquim47.github.io/data/cozy/img/m_top/women-top07.jpg",
+    "url": "https://raquim47.github.io/data/cozy/img/f_top/women-top07.jpg",
     "size": ["S", "L", "XL"],
     "color": ["white", "black", "red", "blue"],
     "count": 1
@@ -14,7 +14,7 @@
     "title": "Twilly collar blouse",
     "filter": ["women", "Top"],
     "price": 1230,
-    "url": "https://raquim47.github.io/data/cozy/img/m_top/women-top06.jpg",
+    "url": "https://raquim47.github.io/data/cozy/img/f_top/women-top06.jpg",
     "size": ["S", "L", "XL"],
     "color": ["white", "black", "red", "blue"],
     "count": 1
@@ -24,7 +24,7 @@
     "title": "Embroidered pocket t-shirt",
     "filter": ["women", "Top"],
     "price": 430,
-    "url": "https://raquim47.github.io/data/cozy/img/m_top/women-top05.jpg",
+    "url": "https://raquim47.github.io/data/cozy/img/f_top/women-top05.jpg",
     "size": ["S", "L", "XL"],
     "color": ["white", "black", "red", "blue"],
     "count": 1
@@ -34,7 +34,7 @@
     "title": "Short-sleeve hooded t-shirt",
     "filter": ["women", "Top"],
     "price": 320,
-    "url": "https://raquim47.github.io/data/cozy/img/m_top/women-top04.jpg",
+    "url": "https://raquim47.github.io/data/cozy/img/f_top/women-top04.jpg",
     "size": ["S", "L", "XL"],
     "color": ["white", "black", "red", "blue"],
     "count": 1
@@ -44,7 +44,7 @@
     "title": "Promenade du Matin straight t-shirt",
     "filter": ["women", "Top"],
     "price": 1930,
-    "url": "https://raquim47.github.io/data/cozy/img/m_top/women-top03.jpg",
+    "url": "https://raquim47.github.io/data/cozy/img/f_top/women-top03.jpg",
     "size": ["S", "L", "XL"],
     "color": ["white", "black", "red", "blue"],
     "count": 1
@@ -54,7 +54,7 @@
     "title": "Eperon d'Or Point Sellier bralette",
     "filter": ["women", "Top"],
     "price": 1530,
-    "url": "https://raquim47.github.io/data/cozy/img/m_top/women-top02.jpg",
+    "url": "https://raquim47.github.io/data/cozy/img/f_top/women-top02.jpg",
     "size": ["S", "L", "XL"],
     "color": ["white", "black", "red", "blue"],
     "count": 1
@@ -64,7 +64,7 @@
     "title": "Eperon d'Or Point Sellier",
     "filter": ["women", "Top"],
     "price": 2200,
-    "url": "https://raquim47.github.io/data/cozy/img/m_top/women-top01.jpg",
+    "url": "https://raquim47.github.io/data/cozy/img/f_top/women-top01.jpg",
     "size": ["S", "L", "XL"],
     "color": ["white", "black", "red", "blue"],
     "count": 1
