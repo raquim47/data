@@ -2,7 +2,8 @@
   {
     "id": 11,
     "title": "H embroidered buttoned polo shirt",
-    "filter": ["Men", "Top"],
+    "gender": "men",
+    "cate": "top",
     "price": 1320,
     "url": "https://raquim47.github.io/data/cozy/img/m_top/men-top11.jpg",
     "size": ["S", "L", "XL"],
@@ -12,7 +13,8 @@
   {
     "id": 10,
     "title": "H embroidered T-shirt",
-    "filter": ["Men", "Top"],
+    "gender": "men",
+    "cate": "top",
     "price": 2230,
     "url": "https://raquim47.github.io/data/cozy/img/m_top/men-top10.jpg",
     "size": ["S", "L", "XL"],
@@ -22,7 +24,8 @@
   {
     "id": 9,
     "title": "H embroidered buttoned polo shirt",
-    "filter": ["Men", "Top"],
+    "gender": "men",
+    "cate": "top",
     "price": 1290,
     "url": "https://raquim47.github.io/data/cozy/img/m_top/men-top09.jpg",
     "size": ["S", "L", "XL"],
@@ -32,7 +35,8 @@
   {
     "id": 8,
     "title": "Piqures Sellier t-shirt New",
-    "filter": ["Men", "Top"],
+    "gender": "men",
+    "cate": "top",
     "price": 1330,
     "url": "https://raquim47.github.io/data/cozy/img/m_top/men-top08.jpg",
     "size": ["S", "L", "XL"],
@@ -42,7 +46,8 @@
   {
     "id": 7,
     "title": "H embroidered buttoned polo shirt",
-    "filter": ["Men", "Top"],
+    "gender": "men",
+    "cate": "top",
     "price": 2230,
     "url": "https://raquim47.github.io/data/cozy/img/m_top/men-top07.jpg",
     "size": ["S", "L", "XL"],
@@ -52,7 +57,8 @@
   {
     "id": 6,
     "title": "H embroidered buttoned polo shirt",
-    "filter": ["Men", "Top"],
+    "gender": "men",
+    "cate": "top",
     "price": 3230,
     "url": "https://raquim47.github.io/data/cozy/img/m_top/men-top06.jpg",
     "size": ["S", "L", "XL"],
@@ -62,7 +68,8 @@
   {
     "id": 5,
     "title": "T-shirt with leather detail",
-    "filter": ["Men", "Top"],
+    "gender": "men",
+    "cate": "top",
     "price": 230,
     "url": "https://raquim47.github.io/data/cozy/img/m_top/men-top05.jpg",
     "size": ["S", "L", "XL"],
@@ -72,7 +79,8 @@
   {
     "id": 4,
     "title": "T-shirt with leather detail",
-    "filter": ["Men", "Top"],
+    "gender": "men",
+    "cate": "top",
     "price": 230,
     "url": "https://raquim47.github.io/data/cozy/img/m_top/men-top04.jpg",
     "size": ["S", "L", "XL"],
@@ -82,7 +90,8 @@
   {
     "id": 3,
     "title": "Where is Super H",
-    "filter": ["Men", "Top"],
+    "gender": "men",
+    "cate": "top",
     "price": 930,
     "url": "https://raquim47.github.io/data/cozy/img/m_top/men-top03.jpg",
     "size": ["S", "L", "XL"],
@@ -92,7 +101,8 @@
   {
     "id": 2,
     "title": "Piqures Sellier polo shirt",
-    "filter": ["Men", "Top"],
+    "gender": "men",
+    "cate": "top",
     "price": 530,
     "url": "https://raquim47.github.io/data/cozy/img/m_top/men-top02.jpg",
     "size": ["S", "L", "XL"],
@@ -102,7 +112,8 @@
   {
     "id": 1,
     "title": "Boxy fit shirt with maxi pocket",
-    "filter": ["Men", "Top"],
+    "gender": "men",
+    "cate": "top",
     "price": 1200,
     "url": "https://raquim47.github.io/data/cozy/img/m_top/men-top01.jpg",
     "size": ["S", "L", "XL"],

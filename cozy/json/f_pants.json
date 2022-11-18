@@ -2,7 +2,8 @@
   {
     "id": 4,
     "title": "Chino pants",
-    "filter": ["women", "pants"],
+    "gender": "women",
+    "cate": "pants",
     "price": 1530,
     "url": "https://raquim47.github.io/data/cozy/img/f_pants/women-pants04.jpg",
     "size": ["S", "L", "XL"],
@@ -12,7 +13,8 @@
   {
     "id": 3,
     "title": "Tresor de Medor jogging pants",
-    "filter": ["women", "pants"],
+    "gender": "women",
+    "cate": "pants",
     "price": 2430,
     "url": "https://raquim47.github.io/data/cozy/img/f_pants/women-pants03.jpg",
     "size": ["S", "L", "XL"],
@@ -22,7 +24,8 @@
   {
     "id": 2,
     "title": "5 pocket pants",
-    "filter": ["women", "pants"],
+    "gender": "women",
+    "cate": "pants",
     "price": 1130,
     "url": "https://raquim47.github.io/data/cozy/img/f_pants/women-pants02.jpg",
     "size": ["S", "L", "XL"],
@@ -32,7 +35,8 @@
   {
     "id": 1,
     "title": "Tresor de Medor jogging pants",
-    "filter": ["women", "pants"],
+    "gender": "women",
+    "cate": "pants",
     "price": 1200,
     "url": "https://raquim47.github.io/data/cozy/img/f_pants/women-pants01.jpg",
     "size": ["S", "L", "XL"],
