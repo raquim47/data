@@ -5,7 +5,7 @@
     "gender": "men",
     "cate": "outwear",
     "price": 5030,
-    "url": "https://raquim47.github.io/data/cozy/img/m_outwear/men-outwear06.jpg",
+    "url": "https://raquim47.github.io/data/cozy/img/men_outwear/men-outwear06.jpg",
     "size": ["S", "L", "XL"],
     "color": ["white", "black", "red", "blue"],
     "count": 1
@@ -16,7 +16,7 @@
     "gender": "men",
     "cate": "outwear",
     "price": 6630,
-    "url": "https://raquim47.github.io/data/cozy/img/m_outwear/men-outwear05.jpg",
+    "url": "https://raquim47.github.io/data/cozy/img/men_outwear/men-outwear05.jpg",
     "size": ["S", "L", "XL"],
     "color": ["white", "black", "red", "blue"],
     "count": 1
@@ -27,7 +27,7 @@
     "gender": "men",
     "cate": "outwear",
     "price": 7230,
-    "url": "https://raquim47.github.io/data/cozy/img/m_outwear/men-outwear04.jpg",
+    "url": "https://raquim47.github.io/data/cozy/img/men_outwear/men-outwear04.jpg",
     "size": ["S", "L", "XL"],
     "color": ["white", "black", "red", "blue"],
     "count": 1
@@ -38,7 +38,7 @@
     "gender": "men",
     "cate": "outwear",
     "price": 6930,
-    "url": "https://raquim47.github.io/data/cozy/img/m_outwear/men-outwear03.jpg",
+    "url": "https://raquim47.github.io/data/cozy/img/men_outwear/men-outwear03.jpg",
     "size": ["S", "L", "XL"],
     "color": ["white", "black", "red", "blue"],
     "count": 1
@@ -49,7 +49,7 @@
     "gender": "men",
     "cate": "outwear",
     "price": 6430,
-    "url": "https://raquim47.github.io/data/cozy/img/m_outwear/men-outwear02.jpg",
+    "url": "https://raquim47.github.io/data/cozy/img/men_outwear/men-outwear02.jpg",
     "size": ["S", "L", "XL"],
     "color": ["white", "black", "red", "blue"],
     "count": 1
@@ -60,7 +60,7 @@
     "gender": "men",
     "cate": "outwear",
     "price": 5200,
-    "url": "https://raquim47.github.io/data/cozy/img/m_outwear/men-outwear01.jpg",
+    "url": "https://raquim47.github.io/data/cozy/img/men_outwear/men-outwear01.jpg",
     "size": ["S", "L", "XL"],
     "color": ["white", "black", "red", "blue"],
     "count": 1

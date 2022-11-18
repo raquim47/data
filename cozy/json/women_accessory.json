@@ -5,7 +5,7 @@
     "gender": "women",
     "cate": "accessory",
     "price": 26630,
-    "url": "https://raquim47.github.io/data/cozy/img/f_accessory/accessory05.jpg",
+    "url": "https://raquim47.github.io/data/cozy/img/women_accessory/accessory05.jpg",
     "count": 1
   },
   {
@@ -14,7 +14,7 @@
     "gender": "women",
     "cate": "accessory",
     "price": 8230,
-    "url": "https://raquim47.github.io/data/cozy/img/f_accessory/accessory04.jpg",
+    "url": "https://raquim47.github.io/data/cozy/img/women_accessory/accessory04.jpg",
     "count": 1
   },
   {
@@ -23,7 +23,7 @@
     "gender": "women",
     "cate": "accessory",
     "price": 12930,
-    "url": "https://raquim47.github.io/data/cozy/img/f_accessory/accessory03.jpg",
+    "url": "https://raquim47.github.io/data/cozy/img/women_accessory/accessory03.jpg",
     "count": 1
   },
   {
@@ -32,7 +32,7 @@
     "gender": "women",
     "cate": "accessory",
     "price": 16430,
-    "url": "https://raquim47.github.io/data/cozy/img/f_accessory/accessory02.jpg",
+    "url": "https://raquim47.github.io/data/cozy/img/women_accessory/accessory02.jpg",
     "count": 1
   },
   {
@@ -41,7 +41,7 @@
     "gender": "women",
     "cate": "accessory",
     "price": 9200,
-    "url": "https://raquim47.github.io/data/cozy/img/f_gaccessory/accessory01.jpg",
+    "url": "https://raquim47.github.io/data/cozy/img/women_accessory/accessory01.jpg",
     "count": 1
   }
 ]
