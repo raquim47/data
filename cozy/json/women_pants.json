@@ -1,6 +1,6 @@
 [
   {
-    "id": 4,
+    "id": "WP4",
     "title": "Chino pants",
     "gender": "women",
     "cate": "pants",
@@ -11,7 +11,7 @@
     "count": 1
   },
   {
-    "id": 3,
+    "id": "WP3",
     "title": "Tresor de Medor jogging pants",
     "gender": "women",
     "cate": "pants",
@@ -22,7 +22,7 @@
     "count": 1
   },
   {
-    "id": 2,
+    "id": "WP2",
     "title": "5 pocket pants",
     "gender": "women",
     "cate": "pants",
@@ -33,7 +33,7 @@
     "count": 1
   },
   {
-    "id": 1,
+    "id": "WP1",
     "title": "Tresor de Medor jogging pants",
     "gender": "women",
     "cate": "pants",

@@ -1,6 +1,6 @@
 [
   {
-    "id": 5,
+    "id": "WA5",
     "title": "Ariane wedding band",
     "gender": "women",
     "cate": "accessory",
@@ -9,7 +9,7 @@
     "count": 1
   },
   {
-    "id": 4,
+    "id": "WA4",
     "title": "Amulettes Cadenas bracelet",
     "gender": "women",
     "cate": "accessory",
@@ -18,7 +18,7 @@
     "count": 1
   },
   {
-    "id": 3,
+    "id": "WA3",
     "title": "Amulettes Cadenas pendant",
     "gender": "women",
     "cate": "accessory",
@@ -27,7 +27,7 @@
     "count": 1
   },
   {
-    "id": 2,
+    "id": "WA2",
     "title": "Collier de Chien ring, small model",
     "gender": "women",
     "cate": "accessory",
@@ -36,7 +36,7 @@
     "count": 1
   },
   {
-    "id": 1,
+    "id": "WA1",
     "title": "Clou de forge long necklace",
     "gender": "women",
     "cate": "accessory",
